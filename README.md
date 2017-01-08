@@ -3,7 +3,7 @@ Georgetown Data Science Restaurant Health Inspection Rating Prediction Project
 
 Data Science Capstone Project Proposal
 
-Team members: Sarah Khederian (coordinator), Matt Steele, David Barnhart, Mary Mallampalli
+Team members: Sarah Khederian (coordinator), Matt Steele, David Barnhart, Mary Mallampalli, Mark Muldoon
 
 Domain chosen: Retail/Industry
 
