@@ -1,0 +1,2 @@
+the_final_countdown.csv is our final dataset, without text data
+class.pkl is our dumped joblib 
